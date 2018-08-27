@@ -8,9 +8,7 @@ class Page404 extends React.Component {
 
     render() {
         return <div style={{textAlign: 'center'}}>
-            <span>页面未找到，请重试！</span>
-            <br />
-            <span>{Math.random()}</span>
+            <span>页面不存在</span>
         </div>
     }
 
